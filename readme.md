@@ -25,5 +25,5 @@ Then it's just a simple `git happify` in a repo to link the hooks in.
 ## Sound attributions
 
 * `happykids.wav` comes from <http://collectiveidea.com/blog/archives/2010/08/03/happy-git-commits/>
-* All the other wav's come from the tf2 wili - <http://tf2wiki.net/wiki/Main_Page>
+* All the other wav's come from the tf2 wiki - <http://tf2wiki.net/wiki/Main_Page>
 
