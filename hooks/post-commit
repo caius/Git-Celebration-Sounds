@@ -1,0 +1,8 @@
+#!/usr/bin/env zsh
+# 
+# Plays a random sound from ~/.git/sounds
+# 
+
+FILES=(~/.git/sounds/*)
+FILE=$FILES[$RANDOM%$#FILES+1]
+afplay $FILE > /dev/null 2>&1 &
