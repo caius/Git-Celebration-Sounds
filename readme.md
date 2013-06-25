@@ -2,7 +2,7 @@
 
 Following on from a blog post on [happy git commits][hgc], I pulled together a bunch of `.wav` files from voice commands in the game [TF2][] to use as well. `post-commit` (and `post-update`) scripts just play one of the files at random.
 
-[hgc]: http://tf2wiki.net/wiki/Main_Page
+[hgc]: http://collectiveidea.com/blog/archives/2010/08/03/happy-git-commits/
 [TF2]: http://www.teamfortress.com/
 
 ## Installation
